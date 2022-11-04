@@ -1,0 +1,8 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	extra_claim_chunks: 0
+	extra_force_load_chunks: 0
+	force_load_members: ["d3d2db0d-60a4-4b30-ab4e-0ec6cc1af0b2"]
+	chunks: { }
+}

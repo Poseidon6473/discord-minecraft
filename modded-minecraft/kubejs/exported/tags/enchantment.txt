@@ -1,0 +1,12 @@
+To refresh this file, delete it and run /reload command again! Last updated: Nov 4, 2022, 2:22:57 AM
+
+#forbidden_arcanus:modifier/fiery_incompatible
+- minecraft:silk_touch
+
+#forbidden_arcanus:modifier/eternal_incompatible
+- minecraft:unbreaking
+- minecraft:mending
+
+#forbidden_arcanus:indestructible_blacklisted
+- minecraft:unbreaking
+- minecraft:mending

@@ -1,0 +1,19 @@
+{
+	id: "8a2c95aa-9989-4f2b-a341-44ecad73f445"
+	type: "player"
+	player_name: "CptCarnivore"
+	ranks: {
+		8a2c95aa-9989-4f2b-a341-44ecad73f445: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CptCarnivore"
+		"ftbteams:color": "#595BFF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
